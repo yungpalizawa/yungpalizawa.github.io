@@ -1,3 +1,3 @@
 # yungpalizawa.github.io
 
-Play around website for Nigerian Food Recipes
+Aspirations to be a Software Engineer.
