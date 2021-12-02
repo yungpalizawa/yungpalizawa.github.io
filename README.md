@@ -1,1 +1,0 @@
-# yungpalizawa.github.io
